@@ -3,6 +3,8 @@
 
 <div class="center" align="center"><center><img src="https://pbs.twimg.com/media/E-rs-SJXMAgYMEZ.jpg" width="500" alt=""/></center></div>
 
+Note: all the dll's have been compressed to one .exe file.
+----
 **License**
 ----
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
